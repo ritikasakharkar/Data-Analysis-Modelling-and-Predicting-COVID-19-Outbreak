@@ -1,0 +1,2 @@
+# Data-Analysis-with-Modelling-and-Predicting-COVID-19-Outbreak
+In this project we have performed data analysis, modelling, and prediction of Coronavirus spread with the help of various data manipulation and ML techniques. For this, we have taken real-time COVID-19 dataset from John Hopkins university. After sufficient analysis of the data, we have predicted the possible number of confirmed cases in the upcoming days for worldwide and India’s data using ML techniques.
